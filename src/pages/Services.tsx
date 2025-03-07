@@ -188,7 +188,7 @@ const Services = () => {
             </div>
             <div className="grid grid-cols-2 gap-4">
               <img
-                src="/src/images/services/marriage_2.jpg"
+                src="/images/services/marriage_2.jpg"
                 alt="Event planning meeting"
                 className="rounded-lg shadow-md h-64 object-cover"
               />
@@ -198,7 +198,7 @@ const Services = () => {
                 className="rounded-lg shadow-md h-64 object-cover mt-8"
               />
               <img
-                src="/src/images/services/birthday_3.jpg"
+                src="/images/services/birthday_3.jpg"
                 alt="Celebration moment"
                 className="rounded-lg shadow-md h-64 object-cover"
               />

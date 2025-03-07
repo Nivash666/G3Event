@@ -34,7 +34,7 @@ export const services: Service[] = [
     title: 'Birthday Celebrations',
     shortDescription: 'Create unforgettable birthday experiences for all ages.',
     fullDescription: 'Our birthday celebration services are designed to create magical moments for people of all ages. Whether you are planning a child\'s themed party, a teenager\'s milestone celebration, or a sophisticated adult gathering, our team brings creativity and attention to detail to every event.',
-    image: '/src/images/services/bia-OoVxXh1AQZY-unsplash.jpg',
+    image: '/images/services/bia-OoVxXh1AQZY-unsplash.jpg',
     icon: 'Cake',
     packages: [
       {
@@ -100,7 +100,7 @@ export const services: Service[] = [
     title: 'Wedding Planning',
     shortDescription: 'Your dream wedding brought to life with elegance and style.',
     fullDescription: 'From intimate ceremonies to grand celebrations, our wedding planning services ensure every detail of your special day is perfect. We handle everything from venue selection to the last dance, creating a seamless and memorable experience for you and your guests.',
-    image: '/src/images/gallery/khadija-yousaf-lKwp3-FQomY-unsplash.jpg',
+    image: '/images/gallery/khadija-yousaf-lKwp3-FQomY-unsplash.jpg',
     icon: 'Heart',
     packages: [
       {
@@ -195,7 +195,7 @@ export const services: Service[] = [
     title: 'Surprise Parties',
     shortDescription: 'Create unforgettable moments with perfectly planned surprise celebrations.',
     fullDescription: 'Our surprise party planning service specializes in creating memorable moments that leave lasting impressions. We handle all the secret details, from guest coordination to the big reveal, ensuring an unforgettable experience for everyone involved.',
-    image: '/src/images/services/surprise-party.jpg',
+    image: '/images/services/surprise-party.jpg',
     icon: 'PartyPopper',
     packages: [
       {
@@ -265,7 +265,7 @@ export const services: Service[] = [
     title: 'Baby Shower Celebrations',
     shortDescription: 'Celebrate new life with beautifully crafted baby shower events.',
     fullDescription: 'Our baby shower planning services combine traditional elements with modern trends to create beautiful celebrations welcoming new life. From intimate gatherings to grand affairs, we ensure every detail reflects the joy and excitement of this special occasion.',
-    image: '/src/images/services/baby-showering.jpeg',
+    image: '/images/services/baby-showering.jpeg',
     icon: 'Baby',
     packages: [
       {
@@ -335,7 +335,7 @@ export const services: Service[] = [
     title: 'Ear Piercing Ceremonies',
     shortDescription: 'Traditional ear piercing ceremonies with modern elegance.',
     fullDescription: 'We specialize in creating meaningful ear piercing ceremonies that honor cultural traditions while incorporating modern celebrations. Our services ensure a safe, hygienic, and memorable experience for this important milestone.',
-    image: '/src/images/services/Ear-pierching.jpg',
+    image: '/images/services/Ear-pierching.jpg',
     icon: 'Sparkles',
     packages: [
       {
